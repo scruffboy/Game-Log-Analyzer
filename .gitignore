@@ -1,0 +1,11 @@
+# Файл базы данных и логов
+data/game_logs.db
+data/logs/*.txt
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+venv/
